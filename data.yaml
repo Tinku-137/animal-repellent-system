@@ -1,0 +1,5 @@
+train: C:/Users/MSI/Smart Animal Repellent System/train/images
+val: C:/Users/MSI/Smart Animal Repellent System/test/images
+
+nc: 14
+names: ['sheep', 'snake', 'pig', 'rabbit', 'monkey', 'goat', 'elephant', 'deer', 'cattle', 'bull', 'chicken', 'bear', 'sparrow', 'parrot']

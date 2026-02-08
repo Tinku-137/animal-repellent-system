@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Data / Media (DO NOT UPLOAD)
+dataset/
+data/
+*.csv
+*.json
+*.zip
+*.rar
+*.mp4
+*.avi
+*.wav
+
+# ML Models
+*.h5
+*.pt
+*.onnx
+*.pkl
+
+# Arduino / ESP32
+build/
+*.bin
+*.elf
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
